@@ -1,0 +1,6 @@
+C:\Users\Рома\documents\visual studio 2015\Projects\Shop\ShopService\bin\ShopService.dll.config
+C:\Users\Рома\documents\visual studio 2015\Projects\Shop\ShopService\bin\ShopService.dll
+C:\Users\Рома\documents\visual studio 2015\Projects\Shop\ShopService\bin\ShopService.pdb
+C:\Users\Рома\documents\visual studio 2015\Projects\Shop\ShopService\obj\Debug\GeneralShopService.csprojResolveAssemblyReference.cache
+C:\Users\Рома\documents\visual studio 2015\Projects\Shop\ShopService\obj\Debug\ShopService.dll
+C:\Users\Рома\documents\visual studio 2015\Projects\Shop\ShopService\obj\Debug\ShopService.pdb
